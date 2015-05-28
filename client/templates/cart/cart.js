@@ -1,0 +1,1 @@
+Template.CartAddItemss.replaces("CartAddItemButton");
