@@ -3,7 +3,7 @@
 }
 
 nav {
-  margin-bottom: 24px;
+
 }
 
 ul.side-nav li a {
@@ -14,4 +14,26 @@ ul.side-nav li a {
 
 ul.side-nav li {
   float: none;
+}
+
+.parallax {
+    background:#ec407a;
+}
+
+.parallax-containers {
+    background:#c7275d;
+    height: 40px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.brand-logo {
+     font-family: 'Pacifico', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    
 }

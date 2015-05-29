@@ -5,9 +5,10 @@
 
   {{> _header}}
 
-  <div class="container">
+
+  {{#momentum plugin='slide-height'}}
     {{> yield}}
-  </div>
+{{/momentum}}
 
   {{> _footer}}
 </template>

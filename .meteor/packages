@@ -28,3 +28,5 @@ accounts-ui
 coffeescript
 aldeed:template-extension
 fortawesome:fontawesome
+accounts-facebook
+percolate:momentum
